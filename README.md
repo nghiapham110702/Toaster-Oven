@@ -12,7 +12,7 @@ This is the Finite State Machine diagram for Toaster Oven
 
 Credit to professor Steve mcGuire from UC Santa Cruz
 
-This is the output of the oven on the pick Uno 32
+This is the output of the oven on the pickit Uno 32 equipment
 
 ![Result](https://user-images.githubusercontent.com/103624639/216801913-e1fb6634-b87c-45e8-9136-4174e31aa4e7.PNG)
 
